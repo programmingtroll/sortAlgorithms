@@ -2,7 +2,7 @@
 # To change this template file, choose Tools | Templates
 # and open the template in the editor.
 
-__author__ = "OWNER"
+__author__ = "Juan Carlos Flores"
 __date__ = "$Feb 26, 2016 9:19:29 AM$"
 
 import random
